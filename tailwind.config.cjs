@@ -12,11 +12,12 @@ module.exports = {
       xl: 24,
       '2xl': 32,
     },
+    
     colors: {
-      transparent:  'transparent',
+      transparent: 'transparent',
 
-      'black': '#000',
-      'white': '#FFF',
+      black: '#000',
+      white: '#FFF',
 
       gray:{
         900: '#121214',
@@ -29,7 +30,7 @@ module.exports = {
       cyan: {
         500: '#81D8F7',
         300: '#9BE1FB',
-      }
+      },
     },
     extend: {
       fontFamily:{
